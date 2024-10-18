@@ -1,5 +1,8 @@
 /*
 Title in HackerRank: "Pointers in C"
+
+Link: https://www.hackerrank.com/challenges/pointer-in-c?isFullScreen=true
+
 */
 
 #include<stdio.h>
@@ -16,7 +19,7 @@ int main(){
     sub = a - b;
     int final_Sub = abs(sub);
 
-    printf("Sum is: %d\nSub is: %d", sum, final_Sub);
+    printf("Sum is: %d\nSub is: %d\n", sum, final_Sub);
 
 
 
