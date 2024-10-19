@@ -1,7 +1,8 @@
 /*
 Title in HackerRank: "Playing With Characters"
 
-Link: https://www.hackerrank.com/challenges/playing-with-characters?isFullScreen=true
+Link: 
+https://www.hackerrank.com/challenges/playing-with-characters?isFullScreen=true
 
 */
 

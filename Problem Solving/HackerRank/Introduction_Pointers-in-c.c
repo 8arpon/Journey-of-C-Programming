@@ -1,7 +1,8 @@
 /*
 Title in HackerRank: "Pointers in C"
 
-Link: https://www.hackerrank.com/challenges/pointer-in-c?isFullScreen=true
+Link: 
+https://www.hackerrank.com/challenges/pointer-in-c?isFullScreen=true
 
 */
 
