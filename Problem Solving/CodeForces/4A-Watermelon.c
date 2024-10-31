@@ -9,7 +9,7 @@ int main(){
         
         else{
             printf("NO\n");
-        }x
+        }
     }
     else{
         printf("Please enter any digit from 0 to 100 only.\n");
