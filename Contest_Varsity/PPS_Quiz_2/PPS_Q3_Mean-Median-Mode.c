@@ -14,6 +14,21 @@ int main(){
 
     int mean, median, mode;
     mean = sum / n;
+    printf("Mean: %d\n", mean);
+
+    int add = 0;
+    for(i = 0; i < n; i++){
+        for(int j = 0; j < n; j++){
+            if(array[i] == array[j]){
+                add++;
+            }
+        }
+        if(add > 1){
+            mode = array[i];
+            break;
+        }
+    }
+    printf("Mode: %d\n", mode);
 
 
 
