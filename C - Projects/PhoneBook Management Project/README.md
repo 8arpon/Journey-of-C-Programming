@@ -7,5 +7,7 @@ In the about.txt file I have added our team members short information, and the o
 There are some feature, and some are missing still now. I will try to improve it more.
 
 Thank you.
+
 Sincerely yours,
+
 Arpon Sarker 
