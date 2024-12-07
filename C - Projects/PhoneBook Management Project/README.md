@@ -1,13 +1,13 @@
 Hi sir,
 
-I am a student at Daffodil Internation Universiy, in Computer Science and Engineering department.
-My first project using C Programming Language.
-Project title: PhoneBook Management Project
-In the about.txt file I have added our team members short information, and the other one is the main code file.
-There are some feature, and some are missing still now. I will try to improve it more.
+I am a student at Daffodil International University, in the Computer Science and Engineering department. This is my first project using the C Programming Language.
+
+**Project Title:** PhoneBook Management Project
+In the `about.txt` file, I have included brief information about our team members. The other file contains the main code.
+There are some features implemented, while others are still in progress. I will continue to improve the project.
 
 Thank you.
 
-Sincerely yours,
+Sincerely,
 
-Arpon Sarker 
+Arpon Sarker
