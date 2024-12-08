@@ -19,7 +19,6 @@ void panelFunc(FILE *contacts);
 void regFuncA();
 void regFuncU();
 
-int tLine = 0;
 int tUser = 0;
 
 void infoFunc(){
@@ -251,6 +250,7 @@ void choiceOpt(FILE *contacts){
         else if(option == 6){
             contacts = fopen("contact.txt", "r");
             char string[500];
+            int tLine = 0;
             while(fgets(string, 500, contacts) != NULL){
                 tLine++;
             }
