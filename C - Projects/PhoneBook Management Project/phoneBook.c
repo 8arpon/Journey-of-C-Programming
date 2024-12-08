@@ -225,11 +225,9 @@ void choiceOpt(FILE *contacts){
 
             if(check == 1){
                 sContName(contacts);
-                choiceOpt(contacts);
             }
             else if(check == 2){
                 sContNumber(contacts);
-                choiceOpt(contacts);;
             }
 
         }
